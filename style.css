@@ -1,0 +1,31 @@
+body{
+			background-color: black;
+			color: white;
+			font-family: sans-serif;
+	}
+
+header h1{
+			text-align: center;
+			width: 75%;
+		}
+
+.paragraphs h1{
+			font-family: sans-serif;
+		}
+	
+.para4 h3{
+			text-transform: uppercase;
+		}
+
+.para5 h3{
+			text-transform: uppercase;
+		}
+
+.para6 h3{
+			text-transform: uppercase;
+		}
+
+.para7 h3{
+			text-transform: uppercase;
+		}
+
