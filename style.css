@@ -21,7 +21,7 @@
 
 .logo{
 	padding: 10px;
-	height: 28px;
+	height: 40px;
 }
 
 body{
@@ -84,11 +84,6 @@ nav a{
 #navstartcoding{
 	border-radius: 4px;
 	background-color: rgb(0, 187, 255);
-}
-
-
-nav a:hover{
-	color: tomato;
 }
 
 .content{
@@ -173,6 +168,7 @@ footer li{
 .copyright{
 	float: right;
 }
+
 footer{
 	padding: 50px;
 	display: flex;
